@@ -19,7 +19,8 @@ The whole project and python files are written in Spanish. If other language is 
 
 ## Data Sources
 The analysis is based on historical Formula 1 data, including race results, circuits, and other relevant competition-related information. 
-The data is obtained from the kaggle database Formula 1 World Championship (1950 - 2024) and scrapping from the Formula 1 subreddit
+The data is obtained from the kaggle database "Formula 1 World Championship (1950 - 2024)" (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)  
+and scrapping from the Formula 1 subreddit and circuits images
 
 ## Objectives
 - Identify key patterns and trends in Formula 1.  
